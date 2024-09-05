@@ -17,4 +17,6 @@ public class RespostaDTO {
     private String anexoResumo;
     private String situacaoSolicitacao;
     private String mensagemExcecao;
+
+
 }
